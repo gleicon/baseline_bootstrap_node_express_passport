@@ -1,0 +1,20 @@
+{ 
+  "name":    "linkhub",            
+  "description": "link github and heroku",                     
+  "version": "0.0.1",                                                           
+  "author": "Gleicon Moraes",                                               
+  "dependencies": {                                                             
+    "express":          "2.5.9",                                                       
+    "ejs":              "0.7.1",
+    "passport":         "",
+    "passport-local":   "",
+    "config":           ">=0.4.15",
+    "mongoose":         "2.6.5",
+    "optimist":         "",
+    "pinger": "",
+    "node-uuid":""
+  }, 
+  "engine": {                                                                   
+    "node": ">=0.6"                                                             
+  }                                                                             
+}

@@ -1,0 +1,5 @@
+mongodb:                                                                                                                                                                      
+    server:   localhost                                                           
+    database: dashboard                                                           
+    user: root                                                                    
+    password:
